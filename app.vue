@@ -2,6 +2,6 @@
   <div>
     <!-- NavBar -->
     <NuxtPage />
-    <!--    <NuxtWelcome />-->
+        <NuxtWelcome />
   </div>
 </template>

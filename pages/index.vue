@@ -1,5 +1,6 @@
 <template>
     <main>
+      <nav>
       <NuxtLink to="/">
         Home
       </NuxtLink>
@@ -7,6 +8,7 @@
         About
       </NuxtLink>
       <h1>Home</h1>
+      </nav>
     </main>
 </template>
 

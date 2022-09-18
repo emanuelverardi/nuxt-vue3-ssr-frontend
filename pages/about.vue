@@ -1,12 +1,14 @@
 <template>
     <main>
-      <NuxtLink to="/">
-        Home
-      </NuxtLink>
-      <NuxtLink to="/about">
-        About
-      </NuxtLink>
-      <h1>About</h1>
+      <nav>
+        <NuxtLink to="/">
+          Home
+        </NuxtLink>
+        <NuxtLink to="/about">
+          About
+        </NuxtLink>
+        <h1>About</h1>
+      </nav>
     </main>
 </template>
 
